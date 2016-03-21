@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="vendor/guzzlehttp/promises/src"/>
+	<buildpathentry kind="src" path="vendor/ircmaxell/security-lib/lib"/>
+	<buildpathentry kind="src" path="vendor/league/oauth2-client/src"/>
+	<buildpathentry kind="src" path="vendor/composer"/>
+	<buildpathentry kind="src" path="vendor/psr/http-message/src"/>
+	<buildpathentry kind="src" path="src"/>
+	<buildpathentry kind="src" path="vendor/ircmaxell/random-lib/lib"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry kind="src" path="vendor/guzzlehttp/psr7/src"/>
+	<buildpathentry kind="src" path="vendor/guzzlehttp/guzzle/src"/>
+</buildpath>
