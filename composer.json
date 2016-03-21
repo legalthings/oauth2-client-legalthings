@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LegalThings\\OAuth2\\": "src/"
+            "LegalThings\\OAuth2\\Client\\Provider\\": "src"
         }
     }
 }

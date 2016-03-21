@@ -1,5 +1,5 @@
 <?php 
-namespace LegalThings\OAuth2;
+namespace LegalThings\OAuth2\Client\Provider;
 
 class LegalThingsResourceOwner implements ResourceOwnerInterface
 {
